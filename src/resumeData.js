@@ -2,10 +2,9 @@ let resumeData = {
   imagebaseurl: "https://ken-shiraishi.dev",
   name: "Ken Shiraishi",
   role: "Full-Stack web developer",
-  // linkedinId: "Your LinkedIn Id",
-  // skypeid: "Your skypeid",
+  // linkedinId: "kshiraishi22",
   roleDescription:
-    " recently completing George Washington's Full-Stack boot camp program. I'm an experienced biotech professional turned web developer.",
+    " that recently completed George Washington's Full-Stack boot camp program. I'm an experienced biotech professional turned web developer.",
   socialLinks: [
     {
       name: "linkedin",
@@ -67,14 +66,14 @@ let resumeData = {
       imgurl: "images/password_generator.png"
     },
     {
-      name: "project3",
-      description: "mobileapp",
-      imgurl: "images/portfolio/project2.png"
+      name: "Employee Directory",
+      description: "A sample employee directory using React that allows users to search for employees based on name, phone #, email, or DOB.",
+      imgurl: "images/employee_directory.png"
     },
     {
-      name: "project4",
-      description: "mobileapp",
-      imgurl: "images/portfolio/phone.jpg"
+      name: "Burger Me Up",
+      description: "A simple burger app that allows users to list out any type of burger they want and once they click on the corresponding button, the burger will move over to the devoured list. Data is saved through MySQL.",
+      imgurl: "images/burger_app.png"
     }
   ]
   // "testimonials":[
