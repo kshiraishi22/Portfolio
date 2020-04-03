@@ -58,6 +58,13 @@ let resumeData = {
       description:
         "A navigation app that allows users to have turn-by-turn directions as well as an interactive map. Features include the option to view multiple routes based on mode of travel or traffic, fuel usage and fuel cost for a given trip as well as health benefits if they decide to bike or walk.",
       imgurl: "images/commute-buddy.png"
+
+    },
+    {
+      name: "Git Connected",
+      description:
+        "A job listing app that focuses primarily on employment seeking web developers to connect with employers looking to hire them. The app includes a secure login, ability to view/edit profiles, apply to jobs (developers) and post jobs (employers).",
+      imgurl: "images/git_connected.png"
     },
     {
       name: "Open Sesame",
